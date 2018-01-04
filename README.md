@@ -1,4 +1,4 @@
-# vue-reconit
+# Adelie Read It Later
 
 > A Vue.js project
 

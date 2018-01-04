@@ -29,13 +29,6 @@ export default {
     this.updateData();
   },
   methods: {
-   /*  getImgUrl: (item) => {
-      if (item.imgUrl && item.preview.images.length) {
-        return item.preview.images[0].source.url;
-      }
-      return 'https://vignette.wikia.nocookie.net/theamazingworldofgumball/images/e/ec/Reddit_Logo.png/revision/latest?cb=20170105232917';
-    }, */
-
     updateData(subreddit) {
       let url;
       this.list = [];
